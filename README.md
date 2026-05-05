@@ -1,5 +1,5 @@
 <h1 align="center">Sajidullah Khan</h1>
-<h3 align="center">Computer Science Student | Backend-Focused Full Stack Developer | Problem Solver | Rational Thinker</h3>
+<h3 align="center">Backend-Focused Full Stack Developer | Problem Solver | Rational Thinker</h3>
 
 ---
 
@@ -7,8 +7,7 @@
 
 - BS Computer Science Student
 - Interested in: Backend-focused development, AI, Philosophy, Logic, Theology, and Software Development
-- Strong focus on Rationality, Structured Thinking, and Problem Solving
-- Strong interest in system design, backend architecture, and problem solving
+- Strong focus on system design, backend architecture, Structured Thinking, and Problem Solving
 - MERN Stack Developer (Intermediate)
 
 ---
@@ -50,9 +49,9 @@
 
 ---
 
-## Projects
+# Projects
 
-# Green Hilton Hotel Booking & Management System
+## Green Hilton Hotel Booking & Management System
 
 ## Overview
 A full-stack MERN application designed for real-world hotel management.
@@ -69,7 +68,7 @@ MongoDB, Express, React, Node.js
 ## Status
 Production-level academic + real-world project
 
-# Task Management System
+## Task Management System
 
 Full-stack MERN app with authentication and task tracking.
 
@@ -78,7 +77,7 @@ Full-stack MERN app with authentication and task tracking.
 - Task CRUD
 - Dashboard UI
 
-# Sortify – Intelligent File Organizer
+## Sortify – Intelligent File Organizer
 
 ## Idea
 A system that organizes files based on semantics, not just extensions.
@@ -96,8 +95,6 @@ Moves beyond basic sorting → towards intelligent systems
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sajidullahkhan08&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidullahkhan08&layout=compact&theme=tokyonight)
 
 ---
 
