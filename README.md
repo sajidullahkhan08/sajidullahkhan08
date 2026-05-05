@@ -1,40 +1,43 @@
 <h1 align="center">Sajidullah Khan</h1>
-<h3 align="center">Computer Science Student | Rational Thinker | Developer</h3>
+<h3 align="center">Computer Science Student | Backend-Focused Full Stack Developer | Problem Solver | Rational Thinker</h3>
 
 ---
 
 ## About Me
 
 - BS Computer Science Student
-- Interested in: AI, Philosophy, Logic, Theology, and Software Development
+- Interested in: Backend-focused development, AI, Philosophy, Logic, Theology, and Software Development
 - Strong focus on Rationality, Structured Thinking, and Problem Solving
+- Strong interest in system design, backend architecture, and problem solving
 - MERN Stack Developer (Intermediate)
 
 ---
 
-## Skills
+## Skills & Tech Stack
 
 ### Languages
-- C++ (80%)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-- Python (50%)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-- JavaScript (60%)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-- Java (50%)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### Web Development
-- HTML, CSS, JavaScript
-- React
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-- Node.js, Express
-![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-- MongoDB
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Other
-- Git & GitHub
-- Problem Solving
-- Logical Analysis
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -49,7 +52,44 @@
 
 ## Projects
 
-Coming soon...
+# Green Hilton Hotel Booking & Management System
+
+## Overview
+A full-stack MERN application designed for real-world hotel management.
+
+## Features
+- Role-based authentication (Admin/User)
+- Booking system
+- Dashboard management
+- RESTful API backend
+
+## Tech Stack
+MongoDB, Express, React, Node.js
+
+## Status
+Production-level academic + real-world project
+
+# Task Management System
+
+Full-stack MERN app with authentication and task tracking.
+
+## Features
+- User authentication
+- Task CRUD
+- Dashboard UI
+
+# Sortify – Intelligent File Organizer
+
+## Idea
+A system that organizes files based on semantics, not just extensions.
+
+## Concepts Used
+- Algorithms (DAA)
+- File handling
+- Classification logic
+
+## Why it matters
+Moves beyond basic sorting → towards intelligent systems
 
 ---
 
@@ -61,6 +101,7 @@ Coming soon...
 
 ---
 
-## Connect
+## Connect & Contact
 
+- Email: sajiidullahkhan0348@gmail.com
 - GitHub: https://github.com/sajidullahkhan08
