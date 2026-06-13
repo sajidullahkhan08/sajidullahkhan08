@@ -28,6 +28,8 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://shields.io)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -37,14 +39,12 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ---
 
-## Philosophy & Interests
-
-- Nature of Reality
+## Intellectual and Philosophical Interests
+- Religion
 - Rationality and Logic
-- Islamic Theology (Ilm-ul-Kalam)
+- Theology (Ilm-ul-Kalam)
 - Philosophy of Science
 
 ---
