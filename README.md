@@ -1,14 +1,14 @@
 <h1 align="center">Sajidullah Khan</h1>
-<h3 align="center">Backend-Focused Full Stack Developer | Problem Solver | Rational Thinker</h3>
+<h3 align="center">Junior Backend-Focused Full Stack Engineer</h3>
 
 ---
 
 ## About Me
 
 - BS Computer Science Student
-- Interested in: Backend-focused development, AI, Philosophy, Logic, Theology, and Software Development
+- Interested in: Sotware Development, Backend-focused Web development, AI, Philosophy, Logic, Theology
 - Strong focus on system design, backend architecture, Structured Thinking, and Problem Solving
-- MERN Stack Developer (Intermediate)
+- MERN Stack Developer (Beginner)
 
 ---
 
