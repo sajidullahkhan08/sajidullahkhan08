@@ -29,7 +29,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://shields.io)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -37,6 +37,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
@@ -46,49 +47,6 @@
 - Rationality and Logic
 - Theology (Ilm-ul-Kalam)
 - Philosophy of Science
-
----
-
-# Projects
-
-## Green Hilton Hotel Booking & Management System
-
-## Overview
-A full-stack MERN application designed for real-world hotel management.
-
-## Features
-- Role-based authentication (Admin/User)
-- Booking system
-- Dashboard management
-- RESTful API backend
-
-## Tech Stack
-MongoDB, Express, React, Node.js
-
-## Status
-Production-level academic + real-world project
-
-## Task Management System
-
-Full-stack MERN app with authentication and task tracking.
-
-## Features
-- User authentication
-- Task CRUD
-- Dashboard UI
-
-## Sortify – Intelligent File Organizer
-
-## Idea
-A system that organizes files based on semantics, not just extensions.
-
-## Concepts Used
-- Algorithms (DAA)
-- File handling
-- Classification logic
-
-## Why it matters
-Moves beyond basic sorting → towards intelligent systems
 
 ---
 
@@ -102,3 +60,4 @@ Moves beyond basic sorting → towards intelligent systems
 
 - Email: sajiidullahkhan0348@gmail.com
 - GitHub: https://github.com/sajidullahkhan08
+- LinkedIn: www.linkedin.com/in/sajidullah-khan-86142b275
