@@ -171,20 +171,6 @@ A selection of things I've built. Most are public; a few (like the Green Hilton 
 
 ---
 
-## ✍️ Writings
-
-I write structured, premise-based arguments on theology (*Ilm ul Kalam*), philosophy, and the rational sciences. These are grounded in classical Islamic theology and take philosophical rigor seriously.
-
-| Title | Topic | Tags |
-|-------|-------|------|
-| **The Contingency Argument for the Existence of God** | On the principle of sufficient reason, the impossibility of infinite regress, and the attributes of the necessary being. | `Metaphysics` `Ilm ul Kalam` `Ontology` |
-| **The Kalam Cosmological Argument for the Existence of God** | On the beginning of the universe, drawing on modern cosmology (BGV theorem, thermodynamics) and classical proofs against actual infinites. | `Cosmology` `Philosophy` `Causality` |
-| **The Teleological Argument for the Existence of God** | On fine-tuning, specified complexity, and inference to the best explanation. | `Fine-Tuning` `Abductive Reasoning` `Teleology` |
-
-*(Full posts are available on my portfolio.)*
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Duration | Details |
