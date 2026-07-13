@@ -15,9 +15,9 @@
 
 ## 👤 About
 
-I'm a 6th-semester Computer Science student at the International Islamic University Islamabad (CGPA 3.54). My work sits at the intersection of software engineering and structured reasoning — whether I'm designing a REST API, debugging a MERN stack application, or working through a proof in *Ilm ul Kalam*, I approach problems the same way: with clear premises, careful definitions, and an insistence on internal consistency.
+I'm a 6th-semester Computer Science student at the International Islamic University Islamabad (CGPA 3.54). My work sits at the intersection of software engineering and structured reasoning - whether I'm designing a REST API, debugging a MERN stack application, or working through a proof in *Ilm ul Kalam*, I approach problems the same way: with clear premises, careful definitions, and an insistence on internal consistency.
 
-Outside of code, I write seriously about theology, philosophy, and the rational sciences. I don't treat these as hobbies or side interests — they are part of the same intellectual life. The discipline required to write a sound argument about the existence of God is, in my view, not fundamentally different from the discipline required to architect a clean backend system.
+Outside of code, I write seriously about theology, philosophy, and the rational sciences. I don't treat these as hobbies or side interests - they are part of the same intellectual life. The discipline required to write a sound argument about the existence of God is, in my view, not fundamentally different from the discipline required to architect a clean backend system.
 
 I value clarity over cleverness, and substance over presentation.
 
@@ -237,7 +237,7 @@ A selection of things I've built. Most are public; a few (like the Green Hilton 
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajiidullahkhan0348@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajidullahkhan08)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-eight-silk-45.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://static-portfolio-beige.vercel.app)
 
 </div>
 
