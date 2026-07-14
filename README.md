@@ -138,23 +138,6 @@ A selection of things I've built. Most are public; a few (like the Green Hilton 
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/sajidullahkhan08/Snake-Game">🐍 Classic Snake Game</a></h3>
-      <p>Retro-style Snake Game implemented in C++ using the Raylib library, featuring smooth controls, sound effects, and a scoring system.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Raylib-FFFFFF?style=flat-square&logo=c&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/sajidullahkhan08/The-Deduction-Engine">🧠 The Deduction Engine</a></h3>
-      <p>A logical reasoning engine exploring formal deduction systems.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Logic-000?style=flat-square&logo=prolog&logoColor=white" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 <details>
@@ -163,9 +146,6 @@ A selection of things I've built. Most are public; a few (like the Green Hilton 
 
 - **[Neon Hex — The Alpha-Beta Duel](https://github.com/sajidullahkhan08/Neon-Hex---The-Alpha-Beta-Duel)** — A game implementing Alpha-Beta pruning algorithms.
 - **[Snake AI (RL)](https://github.com/sajidullahkhan08/snake-ai-RL)** — Snake game trained using Reinforcement Learning.
-- **[Country Comparator CLI](https://github.com/sajidullahkhan08/country-comparator-cli)** — A CLI tool for comparing country statistics.
-- **[Data Structures & Algorithms with C++](https://github.com/sajidullahkhan08/Data-Structures-and-Algorithms-with-Cpp)** — Practice repository for DSA implementations.
-- **[DAA Implementations](https://github.com/sajidullahkhan08/DAA-Implementations)** — Design & Analysis of Algorithms coursework.
 
 </details>
 
