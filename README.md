@@ -1,223 +1,298 @@
 <div align="center">
 
-# Sajidullah Khan
+# 👋 Sajidullah Khan
 
-### Full-Stack & Backend Web Developer
+### `Junior Full Stack Engineer` · `Computer Science Student` · `Builder & Learner`
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajiidullahkhan0348@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajidullahkhan08)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://static-portfolio-beige.vercel.app)
-[![Location](https://img.shields.io/badge/Islamabad-Pakistan-339933?style=for-the-badge&logo=mapbox&logoColor=white)](#)
+**I build software, study how it works, and keep asking why.**
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://static-portfolio-beige.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge\&logo=github)](https://github.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:)
 
 </div>
 
 ---
 
-## 👤 About
+## 🧭 About
 
-I'm a 6th-semester Computer Science student at the International Islamic University Islamabad (CGPA 3.54). My work sits at the intersection of software engineering and structured reasoning - whether I'm designing a REST API, debugging a MERN stack application, or working through a proof in *Ilm ul Kalam*, I approach problems the same way: with clear premises, careful definitions, and an insistence on internal consistency.
+I'm a **7th-semester Computer Science student** interested in building practical software while strengthening the fundamentals behind it.
 
-Outside of code, I write seriously about theology, philosophy, and the rational sciences. I don't treat these as hobbies or side interests - they are part of the same intellectual life. The discipline required to write a sound argument about the existence of God is, in my view, not fundamentally different from the discipline required to architect a clean backend system.
+My work currently sits around:
 
-I value clarity over cleverness, and substance over presentation.
+`Full Stack Development` · `Backend Engineering` · `Algorithms` · `AI` · `Information Security`
+
+I also enjoy **philosophy, theology, history, and structured reasoning** - interests that often influence how I approach technical problems.
+
+> **Clarity over cleverness. Substance over presentation.**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ My Toolbox
+
+<div align="center">
 
 ### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" alt="Languages" />
-</p>
+![JavaScript](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c)
 
 ### Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend" />
-</p>
+![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,vite)
 
-### Backend & Frameworks
+### Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" alt="Backend" />
-</p>
+![Backend](https://skillicons.dev/icons?i=nodejs,express,flask)
 
-### Databases
+### Databases & Infrastructure
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postgres" alt="Databases" />
-</p>
+![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase)
 
-### Tools & Infrastructure
+### Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux" alt="Tools" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajidullahkhan08&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidullahkhan08&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sajidullahkhan08&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Things I've Built
 
-A selection of things I've built. Most are public; a few (like the Green Hilton Hotel system) are private for now.
+### 🏨 Green Hilton
+
+**Hotel Management & Booking Platform**
+
+`MERN` · `JWT` · `MongoDB` · `Cloudinary` · `RBAC`
+
+> Real-world hotel booking, guest accounts, staff portal, room management and operations.
+
+---
+
+### 🔧 ElectroFix
+
+**Electronic Appliance Repair Management**
+
+`HTML` · `CSS` · `JavaScript` · `Python` · `Flask`
+
+> Repair requests, tracking, customer records, technician workflow and service management.
+
+---
+
+### 🐍 Snake AI
+
+**Learning to Play Snake with Deep Q-Learning**
+
+`Python` · `PyTorch` · `Pygame` · `NumPy`
+
+> A DQN agent that learns Snake through self-play.
+
+---
+
+### 🧠 The Deduction Engine
+
+**Logical Deduction & Model-Checking Game**
+
+`Python` · `Pygame` · `Logic`
+
+> An AI deduction system that progressively eliminates possible worlds from feedback.
+
+---
+
+### ⬡ Neon Hex
+
+**Hex Board Game with an AI Opponent**
+
+`Python` · `Pygame` · `Minimax` · `Alpha-Beta`
+
+> A playable Hex implementation with search, heuristics and live AI statistics.
+
+---
+
+### 📁 Sortify
+
+**Intelligent File Organizer & Duplicate Manager**
+
+`Java 17` · `JavaFX` · `Maven` · `SHA-256`
+
+> File classification, duplicate detection, sorting algorithms and recovery tools.
+
+---
+
+### 🔐 CSV Anonymizer
+
+**Privacy-Preserving CSV Processing Tool**
+
+`Python` · `Tkinter` · `Regex` · `SHA-256`
+
+> Detect, mask, hash, pseudonymize and generalize sensitive CSV data.
+
+---
+
+### 🧩 DSA & Algorithms
+
+`C++` · `OOP` · `Trees` · `Graphs` · `Hashing`
+
+**BST · AVL · Hash Tables · Dijkstra · Stacks · Queues · File Systems**
+
+---
+
+### ☕ Advanced Java Applications
+
+`Java` · `Swing` · `MySQL` · `JDBC` · `TCP Sockets`
+
+**Employee Management · Patient Management · Client-Server Messenger**
+
+---
+
+<div align="center">
+
+### More Projects
+
+**Full-Stack Portfolio CMS** · **Snake Game** · **Bookstore REST API**
+
+[**→ Explore all projects on my portfolio**](https://static-portfolio-beige.vercel.app)
+
+</div>
+
+---
+
+# 💼 Experience
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/sajidullahkhan08/Task-Management-System">📋 Task Management System</a></h3>
-      <p>Full-stack MERN application with authentication and task management features. Built during my internship at DevelopersHub Corporation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      </p>
-      <p><a href="https://task-management-system-rosy-rho.vercel.app">🔗 Live Demo</a></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/sajidullahkhan08/Nexus">🤝 Nexus</a></h3>
-      <p>A platform designed to connect entrepreneurs and investors for collaboration and business growth.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <p><a href="https://nexus-iota-five.vercel.app">🔗 Live Demo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/sajidullahkhan08/Electronic-Appliance-Repair-Service-and-Management-System">🔧 Electronic Appliance Repair System</a></h3>
-      <p>Full-stack repair service website enabling customers to submit requests and admins to manage repairs through a dashboard. Group project for Web Engineering course.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/sajidullahkhan08/CSV-Anonymizer">🔒 CSV-Anonymizer</a></h3>
-      <p>Python desktop application that safely anonymizes CSV files containing PII through a user-friendly wizard interface with compliance frameworks for GDPR, HIPAA, and PECA.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data Privacy-000?style=flat-square&logo=shield&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/sajidullahkhan08/Sortify">📁 Sortify</a></h3>
-      <p>Intelligent offline file organizer applying Design & Analysis of Algorithms (DAA) principles to classify files based on semantics, context, and user behavior rather than extension-based sorting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=flat-square&logo=datastructures&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/sajidullahkhan08/bookstore-api">📚 Bookstore API</a></h3>
-      <p>RESTful APIs for a bookstore management system handling core backend operations. Built during internship at DevelopersHub Corporation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### DevelopersHub Corporation
+
+**Software / Full Stack / Backend**
+
+`2025 – 2026`
+
+Full-stack applications, REST APIs, authentication, databases, real-time features and backend development.
+
+</td>
+<td width="50%">
+
+### Arch Technologies
+
+**Full Stack Development**
+
+`2025`
+
+MERN projects including portfolio CMS, social platform, music player and task management.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### TEEROP SMC Pvt. Ltd.
+
+**Web Development**
+
+`2026`
+
+POS, inventory and vehicle rental management systems.
+
+</td>
+<td>
+
+### DecodeLabs
+
+**Backend Development**
+
+`2026`
+
+REST APIs, MongoDB, authentication, third-party APIs, caching and resilience patterns.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### SPS Internship Program
+
+**Appian Developer**
+
+`2026`
+
+Production-style banking workflow for Account Opening Management.
+
+</td>
+<td>
+
+### Dev Weekends
+
+**Full Stack AI Engineering Fellowship**
+
+`Ongoing`
+
+Full-stack development, DSA, system design, problem solving and AI engineering.
+
+</td>
+</tr>
 </table>
 
-<details>
-<summary><b>📂 View More Projects</b></summary>
-<br>
-
-- **[Neon Hex — The Alpha-Beta Duel](https://github.com/sajidullahkhan08/Neon-Hex---The-Alpha-Beta-Duel)** — A game implementing Alpha-Beta pruning algorithms.
-- **[Snake AI (RL)](https://github.com/sajidullahkhan08/snake-ai-RL)** — Snake game trained using Reinforcement Learning.
-
-</details>
-
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Duration | Details |
-|--------|-------------|----------|---------|
-| **BS Computer Science** | International Islamic University Islamabad | 2023 – Present | 6th Semester · CGPA: 3.54 |
-| **FSc Pre-Engineering** | Punjab College of Science, Islamabad | 2018 – 2020 | A-1 Grade (86%) |
-| **Matriculation** | GCMHS Alpuri, Shangla | 2016 – 2018 | A-1 Grade (87%) |
-
----
-
-## 📚 Certifications & Courses
-
-- **CS50x: Introduction to Computer Science** — *Harvard University*
-- **CS50's Web Programming with Python and JavaScript** — *Harvard University*
-- **Meta Front-End Developer Specialization** — *Meta (Coursera)*
-- **Meta Back-End Developer Specialization** — *Meta (Coursera)*
-
----
-
-## 💼 Experience
-
-<details>
-<summary><b>Backend Developer (Internship) — DevelopersHub Corporation (Remote)</b></summary>
-<br>
-<i>12/2025 – 02/2026</i><br><br>
-
-- Designed and developed the backend for an e-commerce web application using Node.js, Express, and MongoDB.
-- Built RESTful APIs for a bookstore management system handling core backend operations.
-</details>
-
-<details>
-<summary><b>Full Stack Developer (Internship) — DevelopersHub Corporation (Remote)</b></summary>
-<br>
-<i>05/2025 – 09/2025</i><br><br>
-
-- Built a full-stack Task Management System using the MERN stack, developing the application from scratch and deploying frontend and backend separately.
-- Collaborated with a team to develop an Alibaba-style full-stack e-commerce platform, contributing to frontend and backend features.
-- Contributed to the development of Nexus, a platform designed to connect entrepreneurs and investors for collaboration and business growth.
-</details>
-
----
-
-## 🌐 Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Pashto-000?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Urdu-006600?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-012169?style=for-the-badge&logo=googletranslate&logoColor=white" />
-</p>
-
----
-
-## 🎯 Interests
-
-- **Reading** — Philosophy, History, Theology, Religion
-- **Thinking** — Problem Solving, Analytical & Logical Reasoning
-- **Playing** — Cricket, Football, Video Games
-
----
-
-## 📬 Get in Touch
+# 🧪 Currently Learning
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajiidullahkhan0348@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajidullahkhan08)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://static-portfolio-beige.vercel.app)
+| 🧠  | Focus                                     |
+| --- | ----------------------------------------- |
+| 🏗️ | **Software Architecture & System Design** |
+| ⚡   | **DSA & Problem Solving**                 |
+| 🤖  | **AI Engineering & Intelligent Systems**  |
+| 🌐  | **Full-Stack Development**                |
+| 🔐  | **Security & Backend Engineering**        |
+
+</div>
+
+---
+
+# 🎓 Education
+
+**BS Computer Science**
+International Islamic University Islamabad · `2023 – Present`
+
+`7th Semester` · **CGPA: 3.54**
+
+---
+
+# 📜 Selected Certifications
+
+`CS50x` · `CS50 Web Programming` · `Meta Front-End Developer` · `Meta Back-End Developer`
+
+---
+
+# 🧩 Beyond Code
+
+I don't want programming to become just a collection of frameworks and syntax.
+
+Outside software, I spend time studying:
+
+**Philosophy** · **Theology** · **History** · **Logic & Reasoning** · **Intellectual History**
+
+These interests have shaped the way I think about **evidence, assumptions, systems and problem-solving**.
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
 
 </div>
 
@@ -225,12 +300,14 @@ A selection of things I've built. Most are public; a few (like the Green Hilton 
 
 <div align="center">
 
-> *"And say: My Lord, increase me in knowledge."*
->
-> — Qur'an 20:114
+### 🌱 Still learning. Still building. Still asking questions.
 
-</div>
+<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajidullahkhan08&style=flat-square&color=blue" alt="Profile Views" />
+**[Portfolio](https://static-portfolio-beige.vercel.app)** · **GitHub** · **LinkedIn** · **Email**
+
+<br>
+
+<sub>© Sajidullah Khan</sub>
+
 </div>
