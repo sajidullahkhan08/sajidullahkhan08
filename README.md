@@ -24,35 +24,27 @@ My work currently sits around:
 
 `Full Stack Development` · `Backend Engineering` · `Algorithms` · `AI` · `Information Security`
 
-I also enjoy **philosophy, theology, history, and structured reasoning** - interests that often influence how I approach technical problems.
+Outside software, I spend time studying **philosophy, theology, history, and structured reasoning**.
 
 > **Clarity over cleverness. Substance over presentation.**
 
 ---
 
-## ⚙️ My Toolbox
+## ⚙️ Toolbox
 
 <div align="center">
 
 ### Languages
 
-![JavaScript](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c)
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c)
 
-### Frontend
+### Development
 
-![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,vite)
+![Development](https://skillicons.dev/icons?i=react,html,css,tailwind,vite,nodejs,express,flask)
 
-### Backend
+### Data & Tools
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,flask)
-
-### Databases & Infrastructure
-
-![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker)
+![Data](https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,git,github,vscode,linux,postman)
 
 </div>
 
@@ -60,99 +52,115 @@ I also enjoy **philosophy, theology, history, and structured reasoning** - inter
 
 # 🚀 Things I've Built
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🏨 Green Hilton
 
-**Hotel Management & Booking Platform**
+**Hotel Management & Booking**
 
-`MERN` · `JWT` · `MongoDB` · `Cloudinary` · `RBAC`
+`MERN` `JWT` `MongoDB` `Cloudinary`
 
-> Real-world hotel booking, guest accounts, staff portal, room management and operations.
+Real-world hotel booking and management platform.
 
----
+</td>
+<td width="50%">
 
 ### 🔧 ElectroFix
 
-**Electronic Appliance Repair Management**
+**Repair Service Management**
 
-`HTML` · `CSS` · `JavaScript` · `Python` · `Flask`
+`JavaScript` `Flask` `SQLite/MySQL`
 
-> Repair requests, tracking, customer records, technician workflow and service management.
+Customer requests, tracking and repair workflow.
 
----
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 🐍 Snake AI
 
-**Learning to Play Snake with Deep Q-Learning**
+**Deep Q-Learning Agent**
 
-`Python` · `PyTorch` · `Pygame` · `NumPy`
+`Python` `PyTorch` `Pygame`
 
-> A DQN agent that learns Snake through self-play.
+An agent that learns to play Snake through self-play.
 
----
+</td>
+<td>
 
 ### 🧠 The Deduction Engine
 
-**Logical Deduction & Model-Checking Game**
+**Logical Deduction Game**
 
-`Python` · `Pygame` · `Logic`
+`Python` `Pygame` `Model Checking`
 
-> An AI deduction system that progressively eliminates possible worlds from feedback.
+Progressively eliminates possible worlds from feedback.
 
----
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### ⬡ Neon Hex
 
-**Hex Board Game with an AI Opponent**
+**AI Board Game**
 
-`Python` · `Pygame` · `Minimax` · `Alpha-Beta`
+`Python` `Minimax` `Alpha-Beta`
 
-> A playable Hex implementation with search, heuristics and live AI statistics.
+Hex with search, heuristics and AI analysis.
 
----
+</td>
+<td>
 
 ### 📁 Sortify
 
-**Intelligent File Organizer & Duplicate Manager**
+**Intelligent File Organizer**
 
-`Java 17` · `JavaFX` · `Maven` · `SHA-256`
+`Java` `JavaFX` `SHA-256`
 
-> File classification, duplicate detection, sorting algorithms and recovery tools.
+Classification, duplicate detection and sorting algorithms.
 
----
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 🔐 CSV Anonymizer
 
-**Privacy-Preserving CSV Processing Tool**
+**Privacy-Preserving Data Tool**
 
-`Python` · `Tkinter` · `Regex` · `SHA-256`
+`Python` `Tkinter` `Regex`
 
-> Detect, mask, hash, pseudonymize and generalize sensitive CSV data.
+Detect and anonymize sensitive CSV data.
 
----
+</td>
+<td>
 
 ### 🧩 DSA & Algorithms
 
-`C++` · `OOP` · `Trees` · `Graphs` · `Hashing`
+**Data Structures in Practice**
 
-**BST · AVL · Hash Tables · Dijkstra · Stacks · Queues · File Systems**
+`C++` `Trees` `Graphs` `Hashing`
 
----
+BST, AVL, Dijkstra, hashing, queues and more.
 
-### ☕ Advanced Java Applications
-
-`Java` · `Swing` · `MySQL` · `JDBC` · `TCP Sockets`
-
-**Employee Management · Patient Management · Client-Server Messenger**
-
----
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### More Projects
+**+ Full-Stack Portfolio CMS · Advanced Java Applications · Snake Game · Bookstore API**
 
-**Full-Stack Portfolio CMS** · **Snake Game** · **Bookstore REST API**
+<br>
 
-[**→ Explore all projects on my portfolio**](https://static-portfolio-beige.vercel.app)
+[**→ Explore the complete project collection**](https://static-portfolio-beige.vercel.app)
 
 </div>
 
@@ -166,13 +174,14 @@ I also enjoy **philosophy, theology, history, and structured reasoning** - inter
 
 ### DevelopersHub Corporation
 
-**Software / Full Stack / Backend**
+**Software · Full Stack · Backend**
 
 `2025 – 2026`
 
-Full-stack applications, REST APIs, authentication, databases, real-time features and backend development.
+Full-stack applications, REST APIs, authentication, databases and real-time features.
 
 </td>
+
 <td width="50%">
 
 ### Arch Technologies
@@ -181,7 +190,7 @@ Full-stack applications, REST APIs, authentication, databases, real-time feature
 
 `2025`
 
-MERN projects including portfolio CMS, social platform, music player and task management.
+MERN applications across social, music, portfolio and task-management systems.
 
 </td>
 </tr>
@@ -195,9 +204,10 @@ MERN projects including portfolio CMS, social platform, music player and task ma
 
 `2026`
 
-POS, inventory and vehicle rental management systems.
+POS, inventory and vehicle-rental management systems.
 
 </td>
+
 <td>
 
 ### DecodeLabs
@@ -206,7 +216,7 @@ POS, inventory and vehicle rental management systems.
 
 `2026`
 
-REST APIs, MongoDB, authentication, third-party APIs, caching and resilience patterns.
+REST APIs, MongoDB, authentication, external APIs, caching and resilience.
 
 </td>
 </tr>
@@ -220,9 +230,10 @@ REST APIs, MongoDB, authentication, third-party APIs, caching and resilience pat
 
 `2026`
 
-Production-style banking workflow for Account Opening Management.
+Role-based banking workflow for Account Opening Management.
 
 </td>
+
 <td>
 
 ### Dev Weekends
@@ -239,74 +250,91 @@ Full-stack development, DSA, system design, problem solving and AI engineering.
 
 ---
 
-# 🧪 Currently Learning
+# 🧪 Currently Exploring
 
 <div align="center">
 
-| 🧠  | Focus                                     |
-| --- | ----------------------------------------- |
-| 🏗️ | **Software Architecture & System Design** |
-| ⚡   | **DSA & Problem Solving**                 |
-| 🤖  | **AI Engineering & Intelligent Systems**  |
-| 🌐  | **Full-Stack Development**                |
-| 🔐  | **Security & Backend Engineering**        |
+`SYSTEM DESIGN`   `DSA`   `AI ENGINEERING`   `BACKEND`   `SECURITY`
 
 </div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">🏗️<br><b>Building</b><br>Full-Stack Systems</td>
+<td align="center">🧠<br><b>Studying</b><br>Algorithms & AI</td>
+<td align="center">🔍<br><b>Improving</b><br>Problem Solving</td>
+<td align="center">⚙️<br><b>Learning</b><br>System Design</td>
+</tr>
+</table>
 
 ---
 
 # 🎓 Education
 
-**BS Computer Science**
-International Islamic University Islamabad · `2023 – Present`
-
-`7th Semester` · **CGPA: 3.54**
-
----
-
-# 📜 Selected Certifications
-
-`CS50x` · `CS50 Web Programming` · `Meta Front-End Developer` · `Meta Back-End Developer`
-
----
-
-# 🧩 Beyond Code
-
-I don't want programming to become just a collection of frameworks and syntax.
-
-Outside software, I spend time studying:
-
-**Philosophy** · **Theology** · **History** · **Logic & Reasoning** · **Intellectual History**
-
-These interests have shaped the way I think about **evidence, assumptions, systems and problem-solving**.
-
----
-
-# 📊 GitHub
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+**BS Computer Science**
+International Islamic University Islamabad
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+`2023 – Present` · `7th Semester` · **CGPA 3.54**
 
 </div>
 
 ---
 
+# 📜 Certifications
+
 <div align="center">
 
-### 🌱 Still learning. Still building. Still asking questions.
+`CS50x` · `CS50 Web Programming` · `Meta Front-End Developer` · `Meta Back-End Developer`
+
+</div>
+
+---
+
+# 🧠 Beyond Code
+
+<div align="center">
+
+**Philosophy** · **Theology** · **History** · **Logic** · **Intellectual History**
 
 <br>
 
-**[Portfolio](https://static-portfolio-beige.vercel.app)** · **GitHub** · **LinkedIn** · **Email**
+I enjoy exploring how people reason about **truth, knowledge, reality, meaning and systems**.
+
+</div>
+
+---
 
 <br>
+
+<div align="center">
+
+## ────────────────
+
+### 🌱 Building things.
+
+### 🧠 Understanding things.
+
+### 🔍 Questioning things.
+
+<br>
+
+**That's the direction.**
+
+<br>
+
+[🌐 **PORTFOLIO**](https://static-portfolio-beige.vercel.app)
+**·**
+[💻 **GITHUB**](https://github.com/)
+**·**
+[💼 **LINKEDIN**](https://linkedin.com/)
+**·**
+[✉️ **EMAIL**](mailto:)
+
+<br><br>
 
 <sub>© Sajidullah Khan</sub>
 
