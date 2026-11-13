@@ -211,12 +211,9 @@ const sajidullahkhan08: Developer = {
 
 </div>
 
-<!-- Optional: enable .github/workflows/snake.yml, run it once, then uncomment -->
-<!--
 <div align="center">
 <img alt="Contribution snake" src="https://raw.githubusercontent.com/sajidullahkhan08/sajidullahkhan08/output/github-snake-dark.svg"/>
 </div>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1510,50:8B6B3D,100:1A1510&height=2&section=header" width="100%" alt="divider"/>
 
