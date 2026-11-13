@@ -104,56 +104,70 @@ const sajidullahkhan08: Developer = {
 
 ## Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="50%">
-<a href="https://github.com/sajidullahkhan08/Task-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajidullahkhan08&repo=Task-Management-System&theme=dark&hide_border=false&border_color=3A2F20&bg_color=14110D&title_color=D4A24C&text_color=C9BBA0&icon_color=8B6B3D" alt="Task Management System"/>
-</a>
-<br/><sub>MERN, JWT, Socket.IO. Real-time notifications, sharing, search and filters</sub>
+<td valign="top" width="50%">
+
+**[Task Management System](https://github.com/sajidullahkhan08/Task-Management-System)**
+
+Full-stack task manager with authentication, CRUD, filtering and search, sharing and real-time notifications.
+
+<img src="https://img.shields.io/badge/MERN-1C1710?style=flat-square&labelColor=1C1710" alt="MERN"/> <img src="https://img.shields.io/badge/JWT-1C1710?style=flat-square&labelColor=1C1710" alt="JWT"/> <img src="https://img.shields.io/badge/Socket.IO-1C1710?style=flat-square&labelColor=1C1710" alt="Socket.IO"/>
+
 </td>
-<td align="center" width="50%">
-<a href="https://github.com/sajidullahkhan08/Electronic-Appliance-Repair-Service-and-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajidullahkhan08&repo=Electronic-Appliance-Repair-Service-and-Management-System&theme=dark&hide_border=false&border_color=3A2F20&bg_color=14110D&title_color=D4A24C&text_color=C9BBA0&icon_color=8B6B3D" alt="ElectroFix"/>
-</a>
-<br/><sub>ElectroFix. Flask + JavaScript. Repair requests, tracking and admin dashboard</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/sajidullahkhan08/CSV-Anonymizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajidullahkhan08&repo=CSV-Anonymizer&theme=dark&hide_border=false&border_color=3A2F20&bg_color=14110D&title_color=D4A24C&text_color=C9BBA0&icon_color=8B6B3D" alt="CSV Anonymizer"/>
-</a>
-<br/><sub>Python, Tkinter. PII detection, masking, hashing and generalization</sub>
-</td>
-<td align="center">
-<a href="https://github.com/sajidullahkhan08/Snake-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajidullahkhan08&repo=Snake-Game&theme=dark&hide_border=false&border_color=3A2F20&bg_color=14110D&title_color=D4A24C&text_color=C9BBA0&icon_color=8B6B3D" alt="Snake Game"/>
-</a>
-<br/><sub>C++, Raylib. Retro snake with sound effects and scoring</sub>
+<td valign="top" width="50%">
+
+**[ElectroFix: Appliance Repair Management](https://github.com/sajidullahkhan08/Electronic-Appliance-Repair-Service-and-Management-System)**
+
+Repair-shop workflow with online requests, tracking, customer records, home-service management and an admin dashboard.
+
+<img src="https://img.shields.io/badge/Flask-1C1710?style=flat-square&labelColor=1C1710" alt="Flask"/> <img src="https://img.shields.io/badge/JavaScript-1C1710?style=flat-square&labelColor=1C1710" alt="JavaScript"/>
+
 </td>
 </tr>
 <tr>
-<td align="center">
-<a href="https://github.com/sajidullahkhan08/Green-Hilton-Hotel-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajidullahkhan08&repo=Green-Hilton-Hotel-Management-System&theme=dark&hide_border=false&border_color=3A2F20&bg_color=14110D&title_color=D4A24C&text_color=C9BBA0&icon_color=8B6B3D" alt="Green Hilton"/>
-</a>
-<br/><sub>MERN. Customer and staff portals, RBAC, Cloudinary, JWT</sub>
+<td valign="top" width="50%">
+
+**[CSV Anonymizer](https://github.com/sajidullahkhan08/CSV-Anonymizer)**
+
+Privacy-focused desktop app that detects PII in CSV data and applies masking, hashing, generalization and replacement.
+
+<img src="https://img.shields.io/badge/Python-1C1710?style=flat-square&labelColor=1C1710" alt="Python"/> <img src="https://img.shields.io/badge/Tkinter-1C1710?style=flat-square&labelColor=1C1710" alt="Tkinter"/>
+
 </td>
-<td align="center">
-<a href="https://github.com/sajidullahkhan08/Sortify">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajidullahkhan08&repo=Sortify&theme=dark&hide_border=false&border_color=3A2F20&bg_color=14110D&title_color=D4A24C&text_color=C9BBA0&icon_color=8B6B3D" alt="Sortify"/>
-</a>
-<br/><sub>Java 17, JavaFX. SHA-256 duplicate detection, heuristics, binary search</sub>
+<td valign="top" width="50%">
+
+**[Snake Game](https://github.com/sajidullahkhan08/Snake-Game)**
+
+Classic snake in C++ with Raylib: smooth controls, sound effects and scoring.
+
+<img src="https://img.shields.io/badge/C++-1C1710?style=flat-square&labelColor=1C1710" alt="C++"/> <img src="https://img.shields.io/badge/Raylib-1C1710?style=flat-square&labelColor=1C1710" alt="Raylib"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**[Green Hilton Hotel Management](https://github.com/sajidullahkhan08/Green-Hilton-Hotel-Management-System)**
+
+Hotel booking platform with separate customer and staff portals, role-based access, dashboards and Cloudinary media.
+
+<img src="https://img.shields.io/badge/MERN-1C1710?style=flat-square&labelColor=1C1710" alt="MERN"/> <img src="https://img.shields.io/badge/JWT-1C1710?style=flat-square&labelColor=1C1710" alt="JWT"/> <img src="https://img.shields.io/badge/Cloudinary-1C1710?style=flat-square&labelColor=1C1710" alt="Cloudinary"/>
+
+</td>
+<td valign="top" width="50%">
+
+**[Sortify: Intelligent File Organizer](https://github.com/sajidullahkhan08/Sortify)**
+
+File organizer using heuristic classification, SHA-256 duplicate detection, sorting algorithms and binary search.
+
+<img src="https://img.shields.io/badge/Java%2017-1C1710?style=flat-square&labelColor=1C1710" alt="Java 17"/> <img src="https://img.shields.io/badge/JavaFX-1C1710?style=flat-square&labelColor=1C1710" alt="JavaFX"/>
+
 </td>
 </tr>
 </table>
 
 <sub>Also: <b>Snake AI</b> (PyTorch Deep Q-Learning) and <b>Neon Hex</b> (Minimax with alpha-beta pruning) &middot; <a href="https://github.com/sajidullahkhan08?tab=repositories">all repositories</a></sub>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1510,50:8B6B3D,100:1A1510&height=2&section=header" width="100%" alt="divider"/>
 
@@ -202,17 +216,13 @@ const sajidullahkhan08: Developer = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sajidullahkhan08&show_icons=true&theme=dark&border_color=3A2F20&bg_color=14110D&title_color=D4A24C&text_color=C9BBA0&icon_color=8B6B3D&ring_color=D4A24C&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidullahkhan08&layout=compact&theme=dark&border_color=3A2F20&bg_color=14110D&title_color=D4A24C&text_color=C9BBA0&langs_count=8" alt="Top languages"/>
+<img src="./assets/stats.svg" height="195" alt="GitHub stats"/>
+<img src="./assets/languages.svg" height="195" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=sajidullahkhan08&theme=dark&background=14110D&stroke=3A2F20&ring=D4A24C&fire=B8860B&currStreakNum=E8D9B5&currStreakLabel=D4A24C&sideNums=E8D9B5&sideLabels=8A7A5C&dates=8A7A5C&border=3A2F20" alt="Streak stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajidullahkhan08&bg_color=14110D&color=C9BBA0&line=D4A24C&point=E8D9B5&area=true&area_color=6B4A2B&hide_border=true" alt="Contribution graph" width="100%"/>
-
-</div>
-
-<div align="center">
 <img alt="Contribution snake" src="https://raw.githubusercontent.com/sajidullahkhan08/sajidullahkhan08/output/github-snake-dark.svg"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1510,50:8B6B3D,100:1A1510&height=2&section=header" width="100%" alt="divider"/>
