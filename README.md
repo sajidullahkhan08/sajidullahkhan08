@@ -6,7 +6,7 @@
 <a href="https://github.com/sajidullahkhan08">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=D4A24C&center=true&vCenter=true&width=720&lines=Full-stack+engineering+with+React+%26+Node.js;MERN+%7C+PostgreSQL+%7C+Flask+%7C+Appian;Final-year+CS+student+%40+IIUI+Islamabad;Make+useful+things%2C+then+make+them+delightful" alt="Typing animation"/>
 </a>
-
+ 
 <br/><br/>
 
 <a href="https://sajidullahkhan.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-1C1710?style=for-the-badge&logo=vercel&logoColor=D4A24C&labelColor=1C1710" alt="Portfolio"/></a>
