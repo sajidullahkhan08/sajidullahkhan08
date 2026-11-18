@@ -10,9 +10,9 @@ permissions:
 
 jobs:
   stats:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Generate stats cards
         run: python3 scripts/generate_stats.py
